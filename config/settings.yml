@@ -1,0 +1,17 @@
+name_size_max: 45
+email_length: 45
+password_min: 6
+rows: 5
+product:
+ limit: 4
+ limit_date: 7
+image: "image3.jpg"
+image_trade_1: "trademark2.jpg"
+image_trade_2: "trademark3.jpg"
+products_per_page: 8
+products_admin_per_page: 4
+users_admin_per_page: 4
+min_field: 1
+number_one: 1
+number_seven: 7
+format_date: "%Y-%m-%d"

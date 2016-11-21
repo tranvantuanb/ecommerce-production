@@ -1,0 +1,278 @@
+en:
+  footer:
+    designby: "@ 2016 by Bui Quy Hoat & Tran Van Tuan."
+    twitter: "twitter"
+    facebook: "facebook"
+    googleplus: "googleplus"
+    pinterest: "pinterest"
+  comments:
+    comment:
+      comment_at: "Commented at "
+      ago: " ago."
+  shared:
+    search_product:
+      min: "Min"
+      max: "Max"
+      quantity: "Quantity"
+      price: "Price"
+      enter_name_product: "Enter name product ... "
+    search_user:
+      enter_address: "Enter address ... "
+      enter_email: "Enter email ... "
+      enter_phone_number: "Enter phone number ... "
+      enter_user_name: "Enter username ... "
+      email: "Email"
+      name: "Name"
+      phone_number: "Phone number"
+      address: "Address"
+    search_category:
+      enter_name_category: "Enter name category"
+  activerecord:
+    model:
+      category: "Category"
+      user: "User"
+      product: "Product"
+      comment: "Commnet"
+      suggest: "Suggest"
+  default_hight: 500
+  users:
+    new:
+      create_account: "Create my account"
+      sign_up: "Sign up"
+    create:
+      welcome_to_the_Fshop: "Welcome to the Fshop!"
+    edit:
+      save_changes: "Save changes"
+      please_log_in: "Please login"
+      update_profile: "Update profile"
+    update:
+      profile_updated: "Profile updated!"
+    show:
+      name: "Name"
+      email: "Email"
+      created_at: "Created at"
+      updated_at: "Updated at"
+      time_now: "Time now"
+      edit_prpfile: "Edit Profile"
+      user_profile: "User Profile"
+      order_history: "Order History"
+      index: "#"
+  sessions:
+    new:
+      log_in: "Log in"
+      new_user: "New user?"
+      sign_up_now: "Sign up now!"
+      remember: "Remember me on this computer"
+    create:
+      invalid_email_password: "Invalid email/password combination!"
+  ecomerces: "Ecommerces"
+  hello: "Hello world"
+  layouts:
+    header:
+      framgia: "F-Shop"
+      home: "Home"
+      help: "Help"
+      about: "About"
+      contact: "Contact"
+      login: "Login"
+      signup: "Sign up"
+      account: "Account"
+      profile: "Profile"
+      settings: "Settings"
+      log_out: "Log out"
+      suggest: "Suggest"
+    admin:
+      categories: "Categories"
+      admin: "Admin"
+      page: "Page"
+      dashboard: "Dashboard"
+      orders: "Orders"
+      suggestions: "Suggestions"
+      users_cat: "Users"
+      products_cat: "Products"
+  static_pages:
+    contact:
+      mail_us: "Mail us"
+      address: "Address"
+      phone: "Phone"
+      email: "Email"
+      e_mail: "E-mail : "
+      detail_email: "f-shop@gmail.com"
+      detail_phone: "+84 1994 1994"
+      detail_address: "25T2 - Hoang Dao Thuy Stress, Ha Noi City"
+    home:
+      home: "Home"
+    help:
+      help: "Help"
+    about:
+      about: "About"
+  products:
+    search:
+      trademark: "Trade Mark"
+      price: "Price"
+      quantity: "Quantity"
+      advanced_search: "Advanced Search"
+      list_products: "List Products"
+      min: "Min"
+      max: "Max"
+    product:
+      dola: "$"
+      view_more: "View more"
+      add_to_cart: "Add to cart"
+    index:
+      new_products: "New Product"
+      best_seller_products: "Best Seller Product"
+      recent_view_products: "Recent View Products"
+      enter_name_product: "Enter name product..."
+      list_products: "List Products"
+    show:
+      fabric_origin: "Fabric Origin"
+      vietnam: "Viet Nam"
+      made_in: "Made in"
+      color: "COLOR"
+      size: "SIZE"
+      add_to_cart: "Add to cart"
+      three_points: " ... "
+      full_description: "Full Description"
+      comment: "Comment"
+      please_click: "Please click"
+      here: "here"
+      to_login: " to login"
+      write_your_comment: "Write your comment"
+      compose_new_comment: "Compose new comment ... "
+      submit: "Post"
+    description: "Description"
+    price: "Price"
+    image: "Image"
+    amout: "Amout"
+    quantity: "Quantity"
+    name: "Name"
+    empty: "Empty"
+  suggest_products:
+    new:
+      please_log_in: "Please Log In"
+      suggest_create: "Suggest Create"
+    form:
+      compose_new_suggest_product: "Compose new suggest product"
+      post: "Post"
+    show:
+      suggest_name_label: "Suggest Product Name"
+      suggest_description: "Suggest Product Description"
+      infomation_suggest: "Suggest Information"
+    create:
+      suggest_create_suggest: "Suggest Product Create Sucessfully"
+  cart:
+    index:
+      edit: "Edit"
+      your_cart: "Your Cart"
+      delete_confirm: "Are you sure, delete ? "
+      step_two: "Step Two"
+      three_points: "..."
+  orders:
+    create:
+      orders_create_successfully: "Order create Sucessfully"
+      orders_create_failed: "Order create Failed"
+    new:
+      total_amout: "Total Amout: "
+      shipping_address: "Shipping Address"
+      shipping_name: "Shipping Name"
+      shipping_email: "Shipping Email"
+      order_now: "Order Now"
+      your_order: "Your Order"
+      three_points: "..."
+  api:
+    orders:
+      order_details:
+        index: "#"
+        quantity: "Quantity"
+        product_id: "Id Product"
+        product_name: "Name Product"
+  admin:
+    categories:
+      edit:
+        update_category: "Update category"
+        save_changes: "Save changes"
+      new:
+        new_category: "New category"
+        create_category: "Create category"
+      index:
+        category_name: "Category name"
+        description: "Description"
+        left_index: "Left index"
+        right_index: "Right index"
+        depth: "Depth"
+        edit: "Edit"
+        delete: "Delete"
+        add_children: "Add children"
+        add: "Add"
+        list_categories: "List Category"
+        advanced_search: "Search"
+      create:
+        add_category_successful: "Add child successful!"
+      update:
+        category_updated: "Category updated!"
+        update_failed: "Update failed!"
+      category:
+        delete: "Delete"
+        edit: "Edit"
+        add: "Add"
+        you_sure: "Are you sure to delete this?"
+      destroy:
+        category_deleted: "Category was deleted!"
+    products:
+      index:
+        advanced_search: "Advanced Search"
+        list_products: "List Products"
+        three_points: "..."
+        index: "#"
+        delete_confirm: "Are you sure ? "
+        import: "Import"
+        import_csv: "Import CSV"
+      destroy:
+        destroy_success: "Destroy product successfully"
+        destroy_error: "Destroy error"
+      create:
+        create_success: "Product Created Successfully"
+      update:
+        update_success: "Update product successfully"
+      form:
+        compose_new_description_product: "Compose new description product..."
+        save: "Save"
+        color: "Color"
+        size: "Size"
+        add_more: "Add More"
+      color_fields:
+        remove: "Remove"
+      size_fields:
+        remove: "Remove"
+    users:
+      index:
+        advanced_search: "Advanced Search"
+        list_users: "List Users"
+        index: "#"
+        email: "Email"
+        name: "Name"
+        phone_number: "Phone number"
+        address: "Address"
+        created_at: "Created at"
+        delete_confirm: "Are you sure ? "
+      destroy:
+        destroy_success: "Destroy user successfully"
+        destroy_error: "Destroy error"
+    statistic:
+      index:
+        order_count: "Order count"
+        customer_account: "Customer account"
+        spline: "spline"
+        column: "column"
+    statistic_pie:
+      index:
+        brands: "Brands"
+  value_order: "{value} orders"
+  weekly_statistics: "Weekly Statistics"
+  total_order: "Total order"
+  value_mems: "{value} mems"
+  customer_accounts: "Customer accounts"
+  vertical: "vertical"
+  right: "right"
+  middle: "middle"
